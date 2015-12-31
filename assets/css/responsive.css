@@ -1,0 +1,48 @@
+@media screen and (min-width: 1200px) {
+
+.recentitems, .logo {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
+@media screen and (min-width: 1250px) {
+
+.recentitems {
+    max-width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
+@media screen and (min-width: 1300px) {
+
+.recentitems {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
+@media screen and (min-width: 1375px) {
+
+.recentitems {
+    max-width: 1175px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
+@media screen and (max-width: 950px) {
+
+.recentitems {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+}
+
+.img-square {
+	width: 25%;
+}
